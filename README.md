@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**CJiu01/CJiu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MY SPACE
 
-Here are some ideas to get you started:
+- [**ReviewPlanner**](https://github.com/2022SSUAndroid/ReviewPlanner)  `AOS` `firebase` </br>
+2022.09.01 - 2022.12.15 (개발 완료) </br>
+복습 일정 관리와 오답 노트를 한번에 이용할 수 있는 안드로이드 앱  </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**SSU-Thing**](https://github.com/SSU-Thing)  `iOS` `swift` </br>
+2022.01-31 - (개발 진행 중) </br>
+숭실대학교 학생복지위원회 물품 대여사업을 위한 앱  </br>
+
+
+- [**EAT-SSU**](https://github.com/EAT-SSU)  `iOS` `swift` </br>
+2022.02-13 - (개발 진행 중) </br>
+"숭실대에서 먹자!" 숭실대학교 학식 리뷰 앱  </br>
