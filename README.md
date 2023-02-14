@@ -11,6 +11,7 @@
 - 💬 Ask me about anything here <a href="mailto:jiwoo020801@gmail.com"><img src="https://img.shields.io/badge/Mail-FC6B4C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlatjsghks4647@naver.com"/></a> 
 <a href="https://velog.io/@cjiu0201"><img src="https://img.shields.io/badge/Velog-7F7F7F?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@daniel4647"/></a>
 
+</br>
 
 
 ## MY SPACE
