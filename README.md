@@ -16,26 +16,26 @@
 
 ## MY SPACE
 
-- [**ReviewPlanner**](https://github.com/2022SSUAndroid/ReviewPlanner)  `AOS` `firebase` </br>
-2022.09.01 - 2022.12.15 (개발 완료) </br>
-복습 일정 관리와 오답 노트를 한번에 이용할 수 있는 안드로이드 앱  </br>
-
-- [**SSU-Thing**](https://github.com/SSU-Thing)  `iOS` `swift` </br>
-2022.01-31 - (개발 진행 중) </br>
-숭실대학교 학생복지위원회 물품 대여사업을 위한 앱  </br>
-
-
 - [**EAT-SSU**](https://github.com/EAT-SSU)  `iOS` `swift` </br>
-2022.02-13 - (개발 진행 중) </br>
-"숭실대에서 먹자!" 숭실대학교 학식 리뷰 앱  </br></br>
+2023.03 - (개발 진행 중) </br>
+"숭실대에서 먹자!" 숭실대학교 학식 리뷰 서비스  </br></br>
+
+- [**FLAG**](https://github.com/flag-app/Flag-iOS)  `iOS` `swift` </br>
+2023.07 - 2023.08 </br>
+간편한 일정 조율 서비스  </br></br>
 
 
 ## Award
 - 제12회 숭실 캡스톤 디자인 경진대회 `장려상 수상` </br>
 - 숭실 SSCC 아이디어 톤 `최우수상 수상` </br>
-- LG CNS 아이디어 공모전 `인기상 수상` </br></br>
+- LG CNS 아이디어 공모전 `인기상 수상` </br>
+- UMC DemoDay `우수상 수상` </br>
+- 숭실대학교 IT 대학 소프트웨어공모전 `금상 수상` </br></br>
+
+
 
 
 ## Career
-- Soongsil Univ. Computer Engineering `2021~ `
+- Soongsil Univ. Computer Engineering `2021.03~ `
+- GSC Lab 학부생 연구원 `2022.08 - 2022.11`
 - SSUPER-POWER-Develper `2022.05~ `
