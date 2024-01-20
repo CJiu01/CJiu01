@@ -30,12 +30,15 @@
 - 숭실 SSCC 아이디어 톤 `최우수상 수상` </br>
 - LG CNS 아이디어 공모전 `인기상 수상` </br>
 - UMC DemoDay `우수상 수상` </br>
-- 숭실대학교 IT 대학 소프트웨어공모전 `금상 수상` </br></br>
+- 숭실대학교 IT 대학 소프트웨어공모전 `금상 수상` </br>
+- K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 `한국지능정보사회진흥원장상 금상 수상`</br></br>
 
 
 
 
-## Career
+## Community
 - Soongsil Univ. Computer Engineering `2021.03~ `
+- YOURSSU iOS Developer `2023.09~ `
+- SSUPER-POWER-Developer `2022.05~ `
+- UMC Soongsil 4rd iOS `2023.03 - 2023.08`
 - GSC Lab 학부생 연구원 `2022.08 - 2022.11`
-- SSUPER-POWER-Develper `2022.05~ `
